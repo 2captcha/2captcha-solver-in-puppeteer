@@ -1,0 +1,29 @@
+{
+  "name": "2captcha-solver-in-puppeteer",
+  "version": "1.0.0",
+  "description": "An example of usage of 2captcha-solver extension with puppeteer ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2captcha/2captcha-solver-in-puppeteer.git"
+  },
+  "keywords": [
+    "2captcha",
+    "captcha",
+    "puppeteer"
+  ],
+  "author": "2Captcha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2captcha/2captcha-solver-in-puppeteer/issues"
+  },
+  "homepage": "https://github.com/2captcha/2captcha-solver-in-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^18.0.5",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
