@@ -4,7 +4,7 @@
   "description": "An example of usage of 2captcha-solver extension with puppeteer ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
