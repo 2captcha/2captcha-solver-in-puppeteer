@@ -1,5 +1,5 @@
 [English](README.md) | [Русский](README.ru.md)
-# usage-2captcha-solver-in-puppeteer
+# Использование расширения 2captcha-solver в puppeteer
 
 ## Описание
 
