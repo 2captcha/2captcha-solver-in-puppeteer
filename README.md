@@ -10,7 +10,7 @@ A detailed described of how this example works is described in our article [How 
 
 ## Download the extension
 
-Download the [latest extension release](https://github.com/2captcha/2captcha-solver/releases/latest) and extract it to `2captcha-solver` folder
+Download the [latest extension release](https://github.com/rucaptcha/2captcha-solver/releases/latest) and extract it to `2captcha-solver` folder
 
 ## Install the dependencies
 

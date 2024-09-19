@@ -11,7 +11,7 @@
 
 ## Загрузка расширения
 
-Скачайте [последний релиз расширения](https://github.com/2captcha/2captcha-solver/releases/latest) и распакуйте его в папку `2captcha-solver`
+Скачайте [последний релиз расширения](https://github.com/rucaptcha/2captcha-solver/releases/latest) и распакуйте его в папку `2captcha-solver`
 
 ## Установка зависимостей
 
